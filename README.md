@@ -43,7 +43,7 @@ Para iniciar el servidor backend, usa el siguiente comando:
 
 El comando npm run start arranca el servidor Express, permitiendo que el backend comience a recibir y manejar solicitudes HTTP.
 
-5. Frontend
+4. Frontend
 Para iniciar la aplicación frontend, usa el siguiente comando:
 `npm start`
 
